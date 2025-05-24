@@ -48,9 +48,12 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 ### ⚙️ Setup
 
 bash
-git clone https://github.com/yourusername/medico.git
+git clone https://github.com/Amansingh077/Medico-a-Medical-Assistant/tree/main
+
 cd medico
+
 pip install -r requirements.txt
+
 python app.py
 
 ## 🎯 Objectives
@@ -89,7 +92,7 @@ Disease Descriptions
 ## 🚀 How to Use
 Launch the application locally.
 
-Enter your symptoms as a list.
+Enter your symptoms separated by commas. A list of symptoms is provided in the PDF file.
 
 Get immediate disease prediction.
 
